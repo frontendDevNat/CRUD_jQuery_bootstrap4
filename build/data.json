@@ -1,0 +1,9 @@
+[
+  {"id": 1, "name": "Product 1", "count" : 38, "price": 53687.45},
+  {"id": 2, "name": "Product 2", "count" : 19, "price": 87.45},
+  {"id": 3, "name": "Product 3", "count" : 45, "price": 1687.45},
+  {"id": 4, "name": "Product 4", "count" : 568, "price": 1253687.45},
+  {"id": 5, "name": "Product 5", "count" : 54, "price": 5783.85},
+  {"id": 6, "name": "Product 6", "count" : 698, "price": 12687.43},
+  {"id": 7, "name": "Product 7", "count" : 467, "price": 127.00}
+]
